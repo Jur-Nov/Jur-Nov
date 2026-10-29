@@ -42,12 +42,12 @@ App multiplataforma hecha en equipo con mis compañeros (*en desarrollo*). Yo me
 - 🛡️ Equipos y sus jugadores
 - 📈 Estadísticas por jugador y por equipo
 
-`Flutter` `Dart` `Git` · [Ver repositorio](https://github.com/Jur-Nov/NOMBRE_REPO)
+`Flutter` `Dart` `Git` · [Ver repositorio](https://github.com/Jur-Nov/TFG-EsportsHub)
 
 ### 🚗 Gestor de vehículos (Java) — *primer curso*
 Aplicación en Java para gestionar un catálogo de vehículos. Mi primer proyecto completo, donde practiqué programación orientada a objetos.
 
-`Java` · [Ver repositorio](https://github.com/Jur-Nov/NOMBRE_REPO)
+`Java` · [Ver repositorio](https://github.com/Jur-Nov/gestor-vehiculos-java)
 
 ## 📊 Estadísticas
 
